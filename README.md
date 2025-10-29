@@ -86,43 +86,42 @@ Leaderboard.QPS.3 (4/4)
 Project #2 - B+Tree
 Student
 
-    Daniel Ghenghea
+Daniel Ghenghea
 
-Total Points
+Autograder Score
+100.0 / 100.0
 
-- / 100 pts
 
-    Autograder Score
-    100.0 / 100.0
-    Passed Tests
-        Build.Prepare (0/0)
-        Build (0/0)
-        Build.Pregrade (0/0)
-        Build.ClangFormat (0/0)
-        Build.ClangTidy (0/0)
-        Build.Release (0/0)
-        BufferPoolManagerTest.PageAccessTest (1/1)
-        BPlusTreeTests.SplitTest (2/2)
-        BPlusTreeTests.InsertTest1NoIterator (3/3)
-        BPlusTreeTests.InsertTest2NoIterator (3/3)
-        BPlusTreeTests.InsertTest3NoIterator (3/3)
-        BPlusTreeTests.ScaleTest (3/3)
-        BPlusTreeTests.DeleteTest1NoIterator (3/3)
-        BPlusTreeTests.DeleteTest2NoIterator (3/3)
-        BPlusTreeTests.DeleteTest3NoIterator (2/2)
-        BPlusTreeTests.InsertTest1 (2.5/2.5)
-        BPlusTreeTests.InsertTest2 (2.5/2.5)
-        BPlusTreeTests.DeleteTest1 (5/5)
-        BPlusTreeTests.DeleteTest2 (5/5)
-        BPlusTreeConcurrentTest.InsertTest1 (2.5/2.5)
-        BPlusTreeConcurrentTest.InsertTest2 (5/5)
-        BPlusTreeConcurrentTest.DeleteTest1 (2.5/2.5)
-        BPlusTreeConcurrentTest.DeleteTest2 (5/5)
-        BPlusTreeTests.ScaleMixTest (5/5)
-        BPlusTreeTests.SequentialEdgeMixTest (2/2)
-        BPlusTreeTests.SequentialMixTest (5/5)
-        BPlusTreeConcurrentTest.MixTest1 (10/10)
-        BPlusTreeConcurrentTest.MixTest2 (10/10)
-        Bench.ContentionBenchmark (5/5)
-        Leaderboard.QPS (10/10)
+Passed Tests
+
+Build.Prepare (0/0)
+Build (0/0)
+Build.Pregrade (0/0)
+Build.ClangFormat (0/0)
+Build.ClangTidy (0/0)
+Build.Release (0/0)
+BufferPoolManagerTest.PageAccessTest (1/1)
+BPlusTreeTests.SplitTest (2/2)
+BPlusTreeTests.InsertTest1NoIterator (3/3)
+BPlusTreeTests.InsertTest2NoIterator (3/3)
+BPlusTreeTests.InsertTest3NoIterator (3/3)
+BPlusTreeTests.ScaleTest (3/3)
+BPlusTreeTests.DeleteTest1NoIterator (3/3)
+BPlusTreeTests.DeleteTest2NoIterator (3/3)
+BPlusTreeTests.DeleteTest3NoIterator (2/2)
+BPlusTreeTests.InsertTest1 (2.5/2.5)
+BPlusTreeTests.InsertTest2 (2.5/2.5)
+BPlusTreeTests.DeleteTest1 (5/5)
+BPlusTreeTests.DeleteTest2 (5/5)
+BPlusTreeConcurrentTest.InsertTest1 (2.5/2.5)
+BPlusTreeConcurrentTest.InsertTest2 (5/5)
+BPlusTreeConcurrentTest.DeleteTest1 (2.5/2.5)
+BPlusTreeConcurrentTest.DeleteTest2 (5/5)
+BPlusTreeTests.ScaleMixTest (5/5)
+BPlusTreeTests.SequentialEdgeMixTest (2/2)
+BPlusTreeTests.SequentialMixTest (5/5)
+BPlusTreeConcurrentTest.MixTest1 (10/10)
+BPlusTreeConcurrentTest.MixTest2 (10/10)
+Bench.ContentionBenchmark (5/5)
+Leaderboard.QPS (10/10)
 ```
