@@ -137,8 +137,6 @@ Autograder Score
 90.0 / 100.0
 
 
-Passed Tests
-
 Failed Tests
 
 SQLLogicTest.p3.16-sort-limit (0/10)
