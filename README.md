@@ -134,12 +134,7 @@ Student
 Daniel Ghenghea
 
 Autograder Score
-90.0 / 100.0
-
-
-Failed Tests
-
-SQLLogicTest.p3.16-sort-limit (0/10)
+100.0 / 100.0
 
 Passed Tests
 
@@ -164,6 +159,7 @@ SQLLogicTest.p3.12-repeat-execute (4/4)
 SQLLogicTest.p3.13-nested-index-join (6/6)
 SQLLogicTest.p3.14-hash-join (4/4)
 SQLLogicTest.p3.15-multi-way-hash-join (8/8)
+SQLLogicTest.p3.16-sort-limit (10/10)
 SQLLogicTest.p3.18-integration-1 (8/8)
 SQLLogicTest.p3.19-integration-2 (10/10)
 Leaderboard.Q1 (0/0)
