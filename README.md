@@ -128,7 +128,7 @@ Leaderboard.QPS (10/10)
 
 ### Query Execution
 ```
-Project #2 - B+Tree
+Project #3 - Query Execution
 Student
 
 Daniel Ghenghea
