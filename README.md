@@ -125,3 +125,51 @@ BPlusTreeConcurrentTest.MixTest2 (10/10)
 Bench.ContentionBenchmark (5/5)
 Leaderboard.QPS (10/10)
 ```
+
+### Query Execution
+```
+Project #2 - B+Tree
+Student
+
+Daniel Ghenghea
+
+Autograder Score
+90.0 / 100.0
+
+
+Passed Tests
+
+Failed Tests
+
+SQLLogicTest.p3.16-sort-limit (0/10)
+
+Passed Tests
+
+Build.Prepare (0/0)
+Build (0/0)
+Build.Pregrade (0/0)
+Build.ClangFormat (0/0)
+Build.ClangTidy (0/0)
+Build.Release (0/0)
+SQLLogicTest.p3.01-seqscan (4/4)
+SQLLogicTest.p3.02-insert (4/4)
+SQLLogicTest.p3.03-update (4/4)
+SQLLogicTest.p3.04-delete (4/4)
+SQLLogicTest.p3.05-index-scan-btree (6/6)
+SQLLogicTest.p3.06-empty-table (4/4)
+SQLLogicTest.p3.07-simple-agg (4/4)
+SQLLogicTest.p3.08-group-agg-1 (4/4)
+SQLLogicTest.p3.09-group-agg-2 (6/6)
+SQLLogicTest.p3.10-simple-join (4/4)
+SQLLogicTest.p3.11-multi-way-join (6/6)
+SQLLogicTest.p3.12-repeat-execute (4/4)
+SQLLogicTest.p3.13-nested-index-join (6/6)
+SQLLogicTest.p3.14-hash-join (4/4)
+SQLLogicTest.p3.15-multi-way-hash-join (8/8)
+SQLLogicTest.p3.18-integration-1 (8/8)
+SQLLogicTest.p3.19-integration-2 (10/10)
+Leaderboard.Q1 (0/0)
+Leaderboard.Q2 (0/0)
+Leaderboard.Q3 (0/0)
+Leaderboard.Summary (0/0)
+```
