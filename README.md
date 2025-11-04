@@ -1,4 +1,4 @@
-## Results from my BusTub DBMS submissions (https://github.com/cmu-db/bustub)
+## Results from my BusTub DBMS submissions (Fall 2024) (https://github.com/cmu-db/bustub)
 
 ### C++ Primer
 ```
@@ -81,7 +81,7 @@ Leaderboard.QPS.2 (4/4)
 Leaderboard.QPS.3 (4/4)
 ```
 
-### B+Tree Index:
+### B+Tree Index
 ```
 Project #2 - B+Tree
 Student
