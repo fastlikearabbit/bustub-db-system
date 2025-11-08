@@ -182,18 +182,15 @@ Student
 Daniel Ghenghea
 
 Autograder Score
-75.0 / 100.0
+87.0 / 100.0
 
 Failed Tests
 
-GradingTxnIndexTest.IndexInsertTest (0/5)
 GradingTxnIndexTest.InsertDeleteTest (0/2)
 GradingTxnIndexTest.UpdateTest (0/2)
 GradingTxnIndexTest.IndexUpdateConflictTest (0/2)
 GradingTxnIndexTest.UpdatePrimaryKeyTest (0/2)
-GradingTxnIndexTest.IndexConcurrentInsertTest (0/5)
 GradingTxnIndexTest.IndexConcurrentUpdateTest (0/5)
-Test.TerrierBench1 (0/2)
 GradingTxnBonusTest.AbortTest (0/3)
 GradingTxnIndexTest.IndexConcurrentUpdateAbortTest (0/4)
 GradingTxnBonusTest.SerializableTest (0/4)
@@ -223,6 +220,9 @@ GradingTxnExecutorTest.UpdateTestWithUndoLog (5/5)
 GradingTxnExecutorTest.UpdateConflict (5/5)
 GradingTxnExecutorTest.GarbageCollection (5/5)
 GradingTxnExecutorTest.GarbageCollectionWithTainted (5/5)
+GradingTxnIndexTest.IndexInsertTest (5/5)
+GradingTxnIndexTest.IndexConcurrentInsertTest (5/5)
+Test.TerrierBench1 (2/2)
 Leaderboard.TerrierBench1 (0/0)
 Leaderboard.TerrierBench2 (0/0)
 Leaderboard.Summary (0/0)
