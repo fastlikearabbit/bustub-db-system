@@ -3,6 +3,7 @@
 ### C++ Primer
 ```
 Project #0 - C++ Primer
+
 Student
 
 Daniel Ghenghea
@@ -33,6 +34,7 @@ HyperLogLogTest.PrestoEdgeCase (10/10)
 ### Buffer Pool Manager
 ```
 Project #1 - Buffer Pool Manager
+
 Student
 
 Daniel Ghenghea
@@ -84,6 +86,7 @@ Leaderboard.QPS.3 (4/4)
 ### B+Tree Index
 ```
 Project #2 - B+Tree
+
 Student
 
 Daniel Ghenghea
@@ -129,6 +132,7 @@ Leaderboard.QPS (10/10)
 ### Query Execution
 ```
 Project #3 - Query Execution
+
 Student
 
 Daniel Ghenghea
@@ -165,5 +169,61 @@ SQLLogicTest.p3.19-integration-2 (10/10)
 Leaderboard.Q1 (0/0)
 Leaderboard.Q2 (0/0)
 Leaderboard.Q3 (0/0)
+Leaderboard.Summary (0/0)
+```
+
+### Concurrency Control
+
+```
+Project #4 - Concurrency Control
+
+Student
+
+Daniel Ghenghea
+
+Autograder Score
+75.0 / 100.0
+
+Failed Tests
+
+GradingTxnIndexTest.IndexInsertTest (0/5)
+GradingTxnIndexTest.InsertDeleteTest (0/2)
+GradingTxnIndexTest.UpdateTest (0/2)
+GradingTxnIndexTest.IndexUpdateConflictTest (0/2)
+GradingTxnIndexTest.UpdatePrimaryKeyTest (0/2)
+GradingTxnIndexTest.IndexConcurrentInsertTest (0/5)
+GradingTxnIndexTest.IndexConcurrentUpdateTest (0/5)
+Test.TerrierBench1 (0/2)
+GradingTxnBonusTest.AbortTest (0/3)
+GradingTxnIndexTest.IndexConcurrentUpdateAbortTest (0/4)
+GradingTxnBonusTest.SerializableTest (0/4)
+GradingTxnBonusTest.ConcurrentSerializableTest (0/4)
+Test.TerrierBench2 (0/5)
+
+Passed Tests
+
+Build.Prepare (0/0)
+Build (0/0)
+Build.Pregrade (0/0)
+Build.ClangFormat (0/0)
+Build.ClangTidy (0/0)
+Build.Release (0/0)
+GradingTxnTsTest.TimestampTracking (5/5)
+GradingTxnTsTest.WatermarkPerformance (5/5)
+GradingTxnScanTest.TupleReconstructTest (7/7)
+GradingTxnScanTest.CollectUndoLogTest (2/2)
+GradingTxnScanTest.ScanTest (8/8)
+GradingTxnExecutorTest.InsertTest (5/5)
+GradingTxnExecutorTest.InsertDeleteTest (5/5)
+GradingTxnExecutorTest.InsertDeleteConflictTest (5/5)
+GradingTxnExecutorTest.GenerateUndoLogTest (3/3)
+GradingTxnExecutorTest.UpdateTest1 (5/5)
+GradingTxnExecutorTest.UpdateTest2 (5/5)
+GradingTxnExecutorTest.UpdateTestWithUndoLog (5/5)
+GradingTxnExecutorTest.UpdateConflict (5/5)
+GradingTxnExecutorTest.GarbageCollection (5/5)
+GradingTxnExecutorTest.GarbageCollectionWithTainted (5/5)
+Leaderboard.TerrierBench1 (0/0)
+Leaderboard.TerrierBench2 (0/0)
 Leaderboard.Summary (0/0)
 ```
